@@ -12,13 +12,13 @@
 ## 🛠️ Tools & Features
 - **Microsoft Excel** for data processing and dashboard creation.
 - **Power Query** for data cleaning, transformation, and preparation.
-- **Pivot Tables & Pivot Charts** for dynamic aggregation and visualization.
-- **Slicers** for interactive filtering by year and state.
-- **Custom KPIs** including:
+- **Power Pivot** for data modeling and managing data relationships.
+- **DAX Measures** for custom KPI calculations such as:
   - Total Sales, Total Cost, Net Profit
   - Gross Margin %
   - Total Orders, Unique Customers, and Items Sold
-    
+- **Pivot Tables & Pivot Charts** for dynamic aggregation and visualization.
+- **Slicers** for interactive filtering by year and state.   
     -<a href="https://github.com/Ahmed-2023/Data-Analysis-Dashboard/blob/main/whole%20project%20files.zip"> Whole project
 
 ## 📈 Dashboard Insights
