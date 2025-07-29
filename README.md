@@ -13,9 +13,11 @@
   - Total Sales, Total Cost, Net Profit
   - Gross Margin %
   - Total Orders, Unique Customers, and Items Sold
+    -<a href="https://github.com/Ahmed-2023/Data-Analysis-Dashboard/blob/main/whole%20project%20files.zip"> Whole project
 
 ## 📈 Dashboard Insights
 - **Sales by Year:** Track growth trends from 2018 to 2020.
 - **Sales by Region & State:** Discover top-performing areas (e.g., California = 45% of sales).
 - **Best-selling Products & Counties:** Visualize the most demanded product categories.
 - **Sales Channels:** Compare sales across In-Store, Online, Distributor, and Wholesale.
+- <a href="https://github.com/Ahmed-2023/Data-Analysis-Dashboard/blob/main/dashboard.png">Dashboard 
