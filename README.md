@@ -16,6 +16,7 @@
   - Total Sales, Total Cost, Net Profit
   - Gross Margin %
   - Total Orders, Unique Customers, and Items Sold
+    
     -<a href="https://github.com/Ahmed-2023/Data-Analysis-Dashboard/blob/main/whole%20project%20files.zip"> Whole project
 
 ## 📈 Dashboard Insights
