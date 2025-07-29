@@ -4,8 +4,10 @@
  ## Dataset Used
  - <a href="https://github.com/Ahmed-2023/Data-Analysis-Dashboard/blob/main/data%20set.zip">Dataset
 
- Dashboard
-    <img width="1510" height="731" alt="dashboard" src="https://github.com/user-attachments/assets/6eea2ba2-a518-40b5-9a67-b788df0ea966" />
+## Dashboard
+
+  <img width="1510" height="731" alt="dashboard" src="https://github.com/user-attachments/assets/6eea2ba2-a518-40b5-9a67-b788df0ea966" />
+
    
 ## 🛠️ Tools & Features
 - **Microsoft Excel** for data processing and dashboard creation.
